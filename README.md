@@ -15,7 +15,7 @@
       메뉴 선택에 어려움을 겪는 사람을 위해 랜덤으로 추천메뉴를 나오게 만듬.
       
 <img width="379" height="665" alt="image" src="https://github.com/user-attachments/assets/b7cd948b-6e66-4f5b-b727-a6990a26da5b" />
-셔틀: 셔틀 노선마다 선택사항을 주고 학교 홈페이지에 있는 내용 참고함.
+셔틀: 셔틀 노선마다 선택사항을 주고 학교 홈페이지에 있는 내용 참고함.\n
 
 <img width="384" height="672" alt="image" src="https://github.com/user-attachments/assets/29d30052-fbd1-4234-96e9-03fbc4f8d791" />
 <img width="390" height="685" alt="image" src="https://github.com/user-attachments/assets/40ff01b4-7482-40d6-8990-abcbf487b9a2" />
