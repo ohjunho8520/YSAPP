@@ -6,8 +6,6 @@
 <img width="381" height="665" alt="image" src="https://github.com/user-attachments/assets/b11bd8e6-98b6-4284-9c73-47ede62b5088" />
 로그인, 회원가입 : 유효성 검사를 통해 아이디, 비밀번호 검사. 학과선택으로 나눔 
 
-<img width="756" height="1442" alt="image" src="https://github.com/user-attachments/assets/932b12a8-c048-41f7-9c28-69582a86f26a" />
-
 <img width="381" height="628" alt="image" src="https://github.com/user-attachments/assets/76c24aef-3fcc-48da-85cc-440c48cf42cf" />
 <img width="371" height="673" alt="image" src="https://github.com/user-attachments/assets/36fcbdfb-566e-4cbf-babc-6422a065d0d8" />
 <img width="384" height="676" alt="image" src="https://github.com/user-attachments/assets/683971dd-785c-4f7d-9d47-20cfed10a104" />
